@@ -1,0 +1,8 @@
+week1/metadata
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+#.terraform.lock.hcl
+ny_taxi_postgres_data
+.DS_Store
