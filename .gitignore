@@ -6,3 +6,4 @@ crash.log
 #.terraform.lock.hcl
 ny_taxi_postgres_data
 .DS_Store
+.venv/
